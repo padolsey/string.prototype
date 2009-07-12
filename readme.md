@@ -1,0 +1,1 @@
+Just a few additions to String.prototype... Have fun!
